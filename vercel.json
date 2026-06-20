@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/terragroxglobal/index.html" },
+    { "source": "/home", "destination": "/terragroxglobal/index.html" },
+    { "source": "/about", "destination": "/terragroxglobal/about-us.html" },
+    { "source": "/founder", "destination": "/terragroxglobal/founder.html" },
+    { "source": "/products", "destination": "/terragroxglobal/products.html" },
+    { "source": "/herbal-powders", "destination": "/terragroxglobal/herbal-powders.html" },
+    { "source": "/spices", "destination": "/terragroxglobal/spices.html" },
+    { "source": "/jaggery", "destination": "/terragroxglobal/jaggery.html" },
+    { "source": "/services", "destination": "/terragroxglobal/services.html" },
+    { "source": "/contact", "destination": "/terragroxglobal/contact-us.html" },
+    { "source": "/faq", "destination": "/terragroxglobal/faq.html" }
+  ]
+}
